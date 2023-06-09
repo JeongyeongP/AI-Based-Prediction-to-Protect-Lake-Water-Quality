@@ -7,9 +7,9 @@ In this mini research, variables which are most related to Phycotin are indicate
 
 ### How To Run
 
-When the code is run, the system will ask:\n
-  Please choose a model\n
-  Type 'MLR' for Multiple Linear Regression\n
-  Type 'DT' for Decision Trees\n
-  ->\n
+When the code is run, the system will ask:<br>
+  Please choose a model<br>
+  Type 'MLR' for Multiple Linear Regression<br>
+  Type 'DT' for Decision Trees<br>
+  -><br>
 A user can choose which model one wants to use by typing 'MLR' or 'DT'
